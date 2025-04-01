@@ -13,7 +13,7 @@ Output a pwm signal
 
 ## How to test
 
-the blue smoke shall be contained
+the blue smoke shall be contained or it has failed
 
 ## External hardware
 
